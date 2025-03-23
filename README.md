@@ -45,7 +45,7 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 
 ## ⛭ GitHub Experience:
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&preferLogin=true">    <img  alt="gospodin's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gospodin?cardType=github&theme=vue-dark&preferLogin=true" />  </a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GSRadev21?cardType=github&theme=vue-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## 🔖 Motto:
 

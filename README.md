@@ -11,8 +11,8 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 ## 🔗 Organisations:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/11de1ea5-9add-4d68-a4be-9175e12d995b" width="130" height="130">
-  <img src="https://github.com/user-attachments/assets/5f48ef4c-63d0-49c9-be4d-e7b20735e19e" width="190" height="150">
+  <a href="https://www.codingburgas.bg/" target="_blank"> <img src="https://github.com/user-attachments/assets/11de1ea5-9add-4d68-a4be-9175e12d995b" width="130" height="130">
+  <a href="https://european-union.europa.eu/index_en" target="_blank"> <img src="https://github.com/user-attachments/assets/5f48ef4c-63d0-49c9-be4d-e7b20735e19e" width="190" height="150">
 </p>
 
 ## 🔎 Interests:

@@ -32,16 +32,17 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 
 ## 🖥️ Technologies & IDEs
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b70e3996-877e-439f-9818-6569f418a70d" width="100" height="100">
-  <img src="https://github.com/user-attachments/assets/c9f6b464-cac5-4cc5-ad0b-dca2b1361187" width="100" height="100">
-  <img src="https://github.com/user-attachments/assets/854d1eb4-a233-47fd-ae73-fa1ad2c9a371" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="100" height="100">
-   <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="100" height="100">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100" height="100">
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/user-attachments/assets/b70e3996-877e-439f-9818-6569f418a70d" width="100" height="100">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/user-attachments/assets/c9f6b464-cac5-4cc5-ad0b-dca2b1361187" width="100" height="100">
+  <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://github.com/user-attachments/assets/854d1eb4-a233-47fd-ae73-fa1ad2c9a371" width="100" height="100">
+  <a href="https://www.arduino.cc/en/software/#ide" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="100" height="100">
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="100" height="100">
+  <a href="https://code.visualstudio.com/"> <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" width="100" height="100">
+  <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="100" height="100">
+  <a href="https://www.microsoft.com/bg-bg/sql-server/sql-server-downloads" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100" height="100">
 </p>
 
+Click & Try them ;)
 
 ## ⛭ GitHub Experience:
 

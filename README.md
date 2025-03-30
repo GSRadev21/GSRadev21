@@ -11,30 +11,31 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 ## 🔗 Organisations:
 
 <p align="left">
-  <a href="https://www.codingburgas.bg/" target="_blank"> <img src="https://github.com/user-attachments/assets/11de1ea5-9add-4d68-a4be-9175e12d995b" width="130" height="130">
-  <a href="https://european-union.europa.eu/index_en" target="_blank"> <img src="https://github.com/user-attachments/assets/5f48ef4c-63d0-49c9-be4d-e7b20735e19e" width="190" height="150">
+  <a href="https://www.codingburgas.bg/" target="_blank"> <img src="https://codingburgas.org/pluginfile.php/1/core_admin/logocompact/300x300/1731504841/CW.png" width="130" height="130">
+  <a href="https://european-union.europa.eu/index_en" target="_blank"> <img src="https://www.savetibet.eu/wp-content/uploads/EP-logo-RGB_EN.png" width="180" height="120">
 </p>
 
 ## 🔎 Interests:
 
-![image](https://github.com/user-attachments/assets/0898698a-6d1d-47ce-ba41-d377adfea40d)
-![image](https://github.com/user-attachments/assets/cae99841-95e5-4457-b06f-6282c7833bac)
-![image](https://github.com/user-attachments/assets/d80e700b-1d5e-4eda-bf40-3e8c2a3facc0)
-![image](https://github.com/user-attachments/assets/c8d8dc6a-c519-465e-9cb8-e7026f95a73b)
-![image](https://github.com/user-attachments/assets/44ad4c54-b8ae-4e7b-996f-fe0995fa7ef8)
-![image](https://github.com/user-attachments/assets/a2602b20-d069-4dac-a982-727866a3969b)
-![image](https://github.com/user-attachments/assets/26ed071d-29d0-4e07-8dbd-8569029ea4de)
-![image](https://github.com/user-attachments/assets/1d6c3537-601e-47cb-999b-148af620a0a4)
-![image](https://github.com/user-attachments/assets/f202e244-8542-46d2-99d1-d731e2a97689)
-![image](https://github.com/user-attachments/assets/a62b3d5c-cf6b-406e-8c73-e1b03c455edd)
-![image](https://github.com/user-attachments/assets/419694a9-c791-4a36-93dd-bab5a23dfcdc)
-![image](https://github.com/user-attachments/assets/bdae45a4-0e8d-483d-8871-2bcb3fd037c7)
+![image](https://github.com/user-attachments/assets/aebe86c8-adb3-4068-ba73-350f029ea4bb)
+![image](https://github.com/user-attachments/assets/624262db-c23d-4aa1-8575-8babd4b7352d)
+![image](https://github.com/user-attachments/assets/15deff6c-f664-4377-85d6-bb20918873c7)
+![image](https://github.com/user-attachments/assets/4a25dd13-f2dd-4772-8a1c-9a5b5744c7c2)
+![image](https://github.com/user-attachments/assets/3f185f96-1ee3-467c-85ee-ff729c5bd0d7)
+![image](https://github.com/user-attachments/assets/07d4121b-b4b2-462c-8811-7fc84a62dbb2)
+![image](https://github.com/user-attachments/assets/7aa13797-1a92-4032-b18f-3d6e0929b5c1)
+![image](https://github.com/user-attachments/assets/1289949f-cfb4-4f2c-9141-8c43d19f56d6)
+![image](https://github.com/user-attachments/assets/c550c0b1-41f0-46ad-af8d-4a8cc7fcbe26)
+![image](https://github.com/user-attachments/assets/bf090e69-210e-4610-a86b-375fffaf594f)
+![image](https://github.com/user-attachments/assets/db49f7e7-5684-4ecb-b10e-a9a9c2a92320)
+![image](https://github.com/user-attachments/assets/aaf993ce-17b8-4f00-a786-baf3d4d50e13)
+![image](https://github.com/user-attachments/assets/c9c6e6b5-3c66-43f4-9534-10115817289e)
 
 ## 🖥️ Technologies & IDEs
 <p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/user-attachments/assets/b70e3996-877e-439f-9818-6569f418a70d" alt="IntelliJ" width="100" height="100">
-  <a href="https://www.jetbrains.com/clion/"> <img src="https://github.com/user-attachments/assets/c9f6b464-cac5-4cc5-ad0b-dca2b1361187" alt="PyCharm" width="100" height="100">
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" target="_blank"> <img src="https://github.com/user-attachments/assets/854d1eb4-a233-47fd-ae73-fa1ad2c9a371" alt="Clion" width="100" height="100">
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/2048px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" alt="IntelliJ" width="100" height="100">
+  <a href="https://www.jetbrains.com/clion/"> <img src="https://softlist.com.ua/attachments/9eea981c-bcf5-4bfb-a90b-838092b3018e_CLion%20icon.webp" alt="PyCharm" width="100" height="100">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" target="_blank"> <img src="https://mosaic.ee/wp-content/uploads/2024/08/PyCharm-icon.png" alt="Clion" width="100" height="100">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualStudio" width="100" height="100">
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="VisualStudio Code" width="100" height="100">
   <a href="https://www.arduino.cc/en/software/#ide"> <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="ArduinoIDE" width="100" height="100">
@@ -42,14 +43,21 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
   <a href="https://www.microsoft.com/bg-bg/sql-server/sql-server-downloads" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SSMS" width="100" height="100">
 </p>
 
-Click & Try them ;)
+🔗 Click & Try ;)
+
+## 📜 Certificates
+
+<p align="left">
+  <a href="https://www.credly.com/users/gospodin-radev" target="_blank">
+    <img src="https://cc.sj-cdn.net/instructor/144t2yemd778h-credly/courses/406yjpoju59m/promo-image.1685991119.png" width="130" height="130" alt="View my certificates on Credly">
+  </a>
+</p>
+
+🔗 Click the image to view all my certificates on Credly! ;)
 
 ## ⛭ GitHub Experience:
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GSRadev21?cardType=github&theme=vue-dark&preferLogin=true)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSRadev21&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 🔖 Motto:
 
@@ -72,8 +80,6 @@ Click & Try them ;)
 
 <p align="center">Thank you!❤️</p>
 
-- The current profile description is inspired and influenced by <a href="https://github.com/dryanakiev/dryanakiev" target="_blank"> <img alt="Dimitar Yanakiev's GitHub Profile" width="150">
-</a>
+- The current profile description is inspired and influenced by <a href="https://github.com/dryanakiev/dryanakiev" target="_blank">Dimitar Yanakiev's GitHub Profile</a>  
 
-- The current profile description is inspired and influenced by <a href="https://github.com/BADimov21" target="_blank"> <img alt="Bozhidar Dimov's GitHub Profile" width="150">
-</a>
+- The current profile description is inspired and influenced by <a href="https://github.com/BADimov21" target="_blank">Bozhidar Dimov's GitHub Profile</a>  

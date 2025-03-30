@@ -12,7 +12,7 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 
 <p align="left">
   <a href="https://www.codingburgas.bg/" target="_blank"> <img src="https://codingburgas.org/pluginfile.php/1/core_admin/logocompact/300x300/1731504841/CW.png" width="130" height="130">
-  <a href="https://european-union.europa.eu/index_en" target="_blank"> <img src="https://www.savetibet.eu/wp-content/uploads/EP-logo-RGB_EN.png" width="180" height="120">
+  <a href="https://european-union.europa.eu/index_en" target="_blank"> <img src="https://www.savetibet.eu/wp-content/uploads/EP-logo-RGB_EN.png" width="205" height="120">
 </p>
 
 ## 🔎 Interests:

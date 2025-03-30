@@ -48,6 +48,9 @@ Click & Try them ;)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GSRadev21?cardType=github&theme=vue-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSRadev21&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🔖 Motto:
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: 'Arial', sans-serif; background-color: #f5f5f5; color: #333;">
@@ -63,8 +66,9 @@ Click & Try them ;)
   <a href="https://www.linkedin.com/in/gospodin-radev-a90a24239/" target="_blank"> 
     <img src="https://camo.githubusercontent.com/cce8aac91c02d35f7832ddf1ac7b4e47fd4bc8c080c26cc100dee8dcfbb0a4a4/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6b4d6f6645464c6a6f625a795f6243756169446f677a426355542d647a334242624f7249456a4a2d68714f61626a4b386965756576476536776c54443135517a4f7177" alt="LinkedIn" height = "60" wight = "60">
 
-
-## 🌟 Credits:
+</a>
+ 
+ ## 🌟 Credits:
 
 <p align="center">Thank you!❤️</p>
 

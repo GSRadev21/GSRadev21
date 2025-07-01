@@ -38,7 +38,7 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" target="_blank"> <img src="https://mosaic.ee/wp-content/uploads/2024/08/PyCharm-icon.png" alt="Clion" width="100" height="100">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualStudio" width="100" height="100">
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="VisualStudio Code" width="100" height="100">
-  <a href="https://www.arduino.cc/en/software/#ide"> <img src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="ArduinoIDE" width="100" height="100">
+  <a href="https://www.arduino.cc/en/software/#ide"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/512px-Arduino_IDE_logo.svg.png?20230510165732" alt="ArduinoIDE" width="100" height="100">
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="100" height="100">
   <a href="https://www.microsoft.com/bg-bg/sql-server/sql-server-downloads" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SSMS" width="100" height="100">
 </p>

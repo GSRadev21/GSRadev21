@@ -17,19 +17,25 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
 
 ## 🔎 Interests:
 
-![image](https://github.com/user-attachments/assets/aebe86c8-adb3-4068-ba73-350f029ea4bb)
-![image](https://github.com/user-attachments/assets/624262db-c23d-4aa1-8575-8babd4b7352d)
-![image](https://github.com/user-attachments/assets/15deff6c-f664-4377-85d6-bb20918873c7)
-![image](https://github.com/user-attachments/assets/4a25dd13-f2dd-4772-8a1c-9a5b5744c7c2)
-![image](https://github.com/user-attachments/assets/3f185f96-1ee3-467c-85ee-ff729c5bd0d7)
-![image](https://github.com/user-attachments/assets/07d4121b-b4b2-462c-8811-7fc84a62dbb2)
-![image](https://github.com/user-attachments/assets/7aa13797-1a92-4032-b18f-3d6e0929b5c1)
-![image](https://github.com/user-attachments/assets/1289949f-cfb4-4f2c-9141-8c43d19f56d6)
-![image](https://github.com/user-attachments/assets/c550c0b1-41f0-46ad-af8d-4a8cc7fcbe26)
-![image](https://github.com/user-attachments/assets/bf090e69-210e-4610-a86b-375fffaf594f)
-![image](https://github.com/user-attachments/assets/db49f7e7-5684-4ecb-b10e-a9a9c2a92320)
-![image](https://github.com/user-attachments/assets/aaf993ce-17b8-4f00-a786-baf3d4d50e13)
-![image](https://github.com/user-attachments/assets/c9c6e6b5-3c66-43f4-9534-10115817289e)
+<a href="https://www.java.com/en" target="_blank"><img src="https://github.com/user-attachments/assets/aebe86c8-adb3-4068-ba73-350f029ea4bb">
+<a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://github.com/user-attachments/assets/624262db-c23d-4aa1-8575-8babd4b7352d">
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://github.com/user-attachments/assets/ee03b998-e774-4d58-b70c-e528f74bca37">
+<a href="https://openjfx.io" target="_blank"><img src="https://github.com/user-attachments/assets/15deff6c-f664-4377-85d6-bb20918873c7">
+<a href="https://jakarta.ee" target="_blank"><img src="https://github.com/user-attachments/assets/923535ef-d4d2-49ca-a872-0b43673b91c0">
+<a href="https://cplusplus.com" target="_blank"><img src="https://github.com/user-attachments/assets/4a25dd13-f2dd-4772-8a1c-9a5b5744c7c2">
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/user-attachments/assets/3f185f96-1ee3-467c-85ee-ff729c5bd0d7">
+<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://github.com/user-attachments/assets/07d4121b-b4b2-462c-8811-7fc84a62dbb2">
+<a href="https://web.dev/learn/css" target="_blank"><img src="https://github.com/user-attachments/assets/7aa13797-1a92-4032-b18f-3d6e0929b5c1">
+<a href="https://www.javascript.com" target="_blank"><img src="https://github.com/user-attachments/assets/1289949f-cfb4-4f2c-9141-8c43d19f56d6">
+<a href="https://www.arduino.cc/en" target="_blank"><img src="https://github.com/user-attachments/assets/c550c0b1-41f0-46ad-af8d-4a8cc7fcbe26">
+<a href="https://www.cisco.com" target="_blank"><img src="https://github.com/user-attachments/assets/bf090e69-210e-4610-a86b-375fffaf594f">
+<a href="https://github.com" target="_blank"><img src="https://github.com/user-attachments/assets/db49f7e7-5684-4ecb-b10e-a9a9c2a92320">
+<a href="[https://github.com](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms)" target="_blank"><img src="https://github.com/user-attachments/assets/aaf993ce-17b8-4f00-a786-baf3d4d50e13">
+<a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/user-attachments/assets/c9c6e6b5-3c66-43f4-9534-10115817289e">
+<a href="https://maven.apache.org" target="_blank"><img src="https://github.com/user-attachments/assets/fb352dc4-9568-4f43-b159-1f0722092331">
+<a href="https://tomcat.apache.org" target="_blank"><img src="https://github.com/user-attachments/assets/1f2c7e55-1da7-45e3-86f0-890e386a250a">
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/user-attachments/assets/f658ab79-4f56-4107-a5fc-fa10e4b186e7">
+
 
 ## 🖥️ Technologies & IDEs
 <p align="left">
@@ -40,7 +46,7 @@ I'm Gospodin Radev - a software engineering student at VSCPI Burgas.🤖
   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="VisualStudio Code" width="100" height="100">
   <a href="https://www.arduino.cc/en/software/#ide"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/512px-Arduino_IDE_logo.svg.png?20230510165732" alt="ArduinoIDE" width="100" height="100">
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" width="100" height="100">
-  <a href="https://www.microsoft.com/bg-bg/sql-server/sql-server-downloads" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SSMS" width="100" height="100">
+  <a href="https://www.microsoft.com/bg-bg/sql-server/sql-server-downloads" target="_blank"><img src="https://github.com/user-attachments/assets/1e55ae40-1a72-46d5-bc7d-3194d429446f" alt="SSMS" width="100" height="100">
 </p>
 
 🔗 Click & Try ;)
